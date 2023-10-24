@@ -1,0 +1,1 @@
+# This is just an template code for a react-sequelize-tailwind app. 
